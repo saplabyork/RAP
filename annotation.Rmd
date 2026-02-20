@@ -60,7 +60,9 @@ This tier will be a copy of the seg tier, but labelled differently. This tier wi
 
 This tier will be used with Prof. Beristain's IntDiff Praat script, which computes the intensity differnce between the C and the following vowel. For this segmentation, the borders should capture the minimum intensity of the C and the maximum intensity of the following V. The segmentation here does not need to be exact but it should capture these max and min intensities in the region that is bordered. The IntDiff tier should be labelled with the C and the following V2. So with a word like "mujerona", this tier would be labeled "je."
 
-Below is an example of what the TextGrid + sound will look like after annotation. 
+Below is an example of what the TextGrid + sound will look like after annotation for the sound "mujerona".
+
+![](sounds/mujerona.wav)
 
 Please watch this [video](https://drive.google.com/file/d/1b1GHqO5kMTPRY_4AXtn89H_jM0Ls8Mbj/view?usp=sharing) as it shows the step-by-step procedure.
 
