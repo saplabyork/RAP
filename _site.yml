@@ -1,0 +1,11 @@
+name: "Rivera Acoustics Project"
+navbar:
+  title: "Rivera Acoustics Project (RAP)"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Annotation"
+      href: annotation.html
+    - text: "Examples"
+      href: examples.html
+output_dir: "docs"
