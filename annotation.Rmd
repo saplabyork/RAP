@@ -22,12 +22,12 @@ In Portuñol, the phonological target /ʎ/ is realized in different ways. The su
 
 | Realization | Description                  |   Audio example                                     |
 |-------------|------------------------------|-----------------------------------------------------|
-| **[ʎ]**         | palatal lateral approximant  | ![](Sample_sounds/Palatal_lateral_approximant.ogg)  |
-| **[lj]**        | lateral followed by glide    | ---                                                    |
-|**[j]**        | palatal approximant          | ![](Sample_sounds/Palatal_approximant.ogg)          |
-| **[l]**         | alveolar lateral approximant | ![](Sample_sounds/Alveolar_lateral_approximant.ogg) |
-| **[ʒ]**         | voiced palato-alv sibilant   | ![](Sample_sounds/Voiced_palato-alveolar_sibilant.ogg)                           |
-| **0**           | deletion                     | ---                                                    |
+| **[ʎ]**     | **Palatal lateral approximant**: reduced intensity relative to vowels; weak formants; no strong frication  | ![](Sample_sounds/Palatal_lateral_approximant.ogg)  |
+| **[lj]**        | **Lateral followed by glide**: two phase structure; early vowel/glide; bi-phasic intensity contour     | ---                                                    |
+|**[j]**        | **Palatal approximant**: glide; strong formants; intensity similar to vowels; flat intensity          | ![](Sample_sounds/Palatal_approximant.ogg)          |
+| **[l]**         | **Alveolar lateral approximant**: no palatal cues; alveolar like formants; mid-level intensity | ![](Sample_sounds/Alveolar_lateral_approximant.ogg) |
+| **[ʒ]**         | **Voiced palato-alv sibilant**: audible frication; little or no formant; intensity may be high   | ![](Sample_sounds/Voiced_palato-alveolar_sibilant.ogg)                           |
+| **0**           | **Deletion**: Vowel-to-vowel transition; near-zero duration                     | ---                                                    |
 
 ## Annotation tiers
 
