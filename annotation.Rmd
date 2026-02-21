@@ -64,16 +64,16 @@ Below is an example of what the TextGrid + sound will look like after annotation
 
 ![](sounds/mujerona.wav)
 
-Please watch this [video](https://drive.google.com/file/d/1b1GHqO5kMTPRY_4AXtn89H_jM0Ls8Mbj/view?usp=sharing) as it shows the step-by-step procedure. It also shows a 0 (deletion) of the target C. This [video](https://drive.google.com/file/d/1Oi3kuvJvDhfx9E4FbjFj3OgH6GZDC4Rj/view?usp=sharing) shows the very next production that has the clear glide.
+Please watch this [video](https://drive.google.com/file/d/1b1GHqO5kMTPRY_4AXtn89H_jM0Ls8Mbj/view?usp=sharing) as it shows the step-by-step procedure. It also shows a 0 (deletion) of the target C. This [video](https://drive.google.com/file/d/1Oi3kuvJvDhfx9E4FbjFj3OgH6GZDC4Rj/view?usp=sharing) shows the very next production that has the clear glide
 
 "Mujerona" with deletion
-![](images/mujerona_deletion.png)
+![](images/mujerona_deletion.png)\
 
 
 "Mujerona" with clear glide (see F2 positive slope)
 
 ![](sounds/mujerona_glide.wav)
 
-![](images/mujerona_glide.png)
+![](images/mujerona_glide.png)\\
 
 
