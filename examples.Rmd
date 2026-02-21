@@ -38,7 +38,7 @@ body {
   <tr>
     <td class="tg-0pky">[j]</td>
     <td class="tg-0pky">F2 rise<br>Fall in F3<br>Look for change in waveform<br></td>
-    <td class="tg-0pky">![](images/mujerona_glide_markup.jpg)</td>
+    <td class="tg-0pky">![](images/mujerona_glide_markup.jpg)<br>![](sounds/mujerona_glide.wav</td>
   </tr>
   <tr>
     <td class="tg-0pky">[ʎ]</td>
@@ -46,23 +46,23 @@ body {
     <td class="tg-0pky">![](images/mujer_markup.jpg)<br>![](sounds/muje.wav)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">[j]</td>
-    <td class="tg-0pky">palatal approximant</td>
-    <td class="tg-0pky">![](Sample_sounds/Palatal_approximant.ogg)</td>
+    <td class="tg-0pky"><span style="font-weight:400;font-style:normal">[ʒ]</span></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">[l]</td>
-    <td class="tg-0pky">alveolar lateral approximant</td>
-    <td class="tg-0pky">![](Sample_sounds/Alveolar_lateral_approximant.ogg)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">[ʒ]</td>
-    <td class="tg-0pky">voiced palato-alv sibilant</td>
-    <td class="tg-0pky">![](Sample_sounds/Voiced)</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky">0</td>
-    <td class="tg-0pky">deletion</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
   </tr>
 </tbody></table>
