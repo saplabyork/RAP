@@ -52,8 +52,8 @@ body {
   </tr>
   <tr>
     <td class="tg-0pky">[l]</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">High F3<br>Weak F2<br>Reduced amplitude of waveform</td>
+    <td class="tg-0pky">![](images/orejudo_lateral.jpg)<br><span style="font-weight:400;font-style:normal">![](sounds/orejudo_lateral.wav)</span><br></td>
   </tr>
   <tr>
     <td class="tg-0pky">0</td>
