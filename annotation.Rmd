@@ -26,7 +26,7 @@ In Portuñol, the phonological target /ʎ/ is realized in different ways. The su
 | **[lj]**        | **Lateral followed by glide**: two phase structure; early vowel/glide; bi-phasic intensity contour     | ---                                                    |
 |**[j]**        | **Palatal approximant**: glide; strong formants; intensity similar to vowels; flat intensity          | ![](Sample_sounds/Palatal_approximant.ogg)          |
 | **[l]**         | **Alveolar lateral approximant**: no palatal cues; alveolar like formants; mid-level intensity | ![](Sample_sounds/Alveolar_lateral_approximant.ogg) |
-| **[ʒ]**         | **Voiced palato-alv sibilant**: audible frication; little or no formant; intensity may be high   | ![](Sample_sounds/Voiced_palato-alveolar_sibilant.ogg)                           |
+| **[ʃ]**         | **Voiceless palato-alv sibilant**: audible frication; little or no formant; intensity may be high   | ![](Sample_sounds/Voiceless_palato-alveolar_sibilant.ogg)                           |
 | **0**           | **Deletion**: Vowel-to-vowel transition; near-zero duration                     | ---                                                    |
 
 ## Annotation tiers

@@ -57,8 +57,8 @@ body {
   </tr>
   <tr>
     <td class="tg-0pky">0</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Vowel-to-vowel hiatus<br>Small transition between vowels</td>
+    <td class="tg-0pky">![](images/mejor_deletion.png)<br>![](sounds/mejor_deletion.wav)</td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
