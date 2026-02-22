@@ -43,7 +43,7 @@ You will be working with a sound file and creating a TextGrid in Praat. The way 
 >   
 ### Word tier
 
-This tier will have boundaries for the onset and offset of the word. The word segment will be labelled with the *target* word as it appears in the [word list](docs/word_list.pdf). This is the *predicted pronunciation* of the Portuñol target.
+This tier will have boundaries for the onset and offset of the word. The word segment will be labelled with the *target* word as it appears in the [word list](docs/word_list.pdf). This is the *predicted pronunciation* of the Portuñol target. Please stick to the spelling of this Portuñol target and NOT the realization that the speaker actually produces. For example, a speaker might produce the word "mujerengo" as [muʃerego], but the word tier should say "mujerengo."
 
 >
 ### Seg tier
