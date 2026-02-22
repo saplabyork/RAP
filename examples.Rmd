@@ -38,7 +38,7 @@ body {
   <tr>
     <td class="tg-0pky">[j]</td>
     <td class="tg-0pky">F2 rise<br>Fall in F3<br>Look for change in waveform<br></td>
-    <td class="tg-0pky">![](images/mujerona_glide_markup.jpg)<br>![](sounds/mujerona_glide.wav</td>
+    <td class="tg-0pky">![](images/mujerona_glide_markup.jpg)<br>![](sounds/mujerona_glide.wav)</td>
   </tr>
   <tr>
     <td class="tg-0pky">[ʎ]</td>
