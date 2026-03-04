@@ -20,14 +20,15 @@ body {
 
 In Portuñol, the phonological target /ʎ/ is realized in different ways. The surface realization will be either:
 
-| Realization | Description                  |   Audio example                                     |
-|-------------|------------------------------|-----------------------------------------------------|
-| **[ʎ]**     | **Palatal lateral approximant**: reduced intensity relative to vowels; weak formants; no strong frication  | ![](Sample_sounds/Palatal_lateral_approximant.ogg)  |
-| **[lj]**        | **Lateral followed by glide**: two phase structure; early vowel/glide; bi-phasic intensity contour     | ---                                                    |
-|**[j]**        | **Palatal approximant**: glide; strong formants; intensity similar to vowels; flat intensity          | ![](Sample_sounds/Palatal_approximant.ogg)          |
-| **[l]**         | **Alveolar lateral approximant**: no palatal cues; alveolar like formants; mid-level intensity | ![](Sample_sounds/Alveolar_lateral_approximant.ogg) |
-| **[ʃ]**         | **Voiceless palato-alv sibilant**: audible frication; little or no formant; intensity may be high   | ![](Sample_sounds/Voiceless_palato-alveolar_sibilant.ogg)                           |
-| **0**           | **Deletion**: Vowel-to-vowel transition; near-zero duration                     | ---                                                    |
+| Realization | Symbol |Description                  |   Audio example                                     |
+|-------------|--------|------------------------------|-----------------------------------------------------|
+| **[ʎ]**     | L |**Palatal lateral approximant**: reduced intensity relative to vowels; weak formants; no strong frication  | ![](Sample_sounds/Palatal_lateral_approximant.ogg)  |
+| **[lj]**| lj | **Lateral followed by glide**: two phase structure; early vowel/glide; bi-phasic intensity contour     | ---                                                    |
+|**[j]**| j | **Palatal approximant**: glide; strong formants; intensity similar to vowels; flat intensity          | ![](Sample_sounds/Palatal_approximant.ogg)          |
+| **[l]** | l | **Alveolar lateral approximant**: no palatal cues; alveolar like formants; mid-level intensity | ![](Sample_sounds/Alveolar_lateral_approximant.ogg) |
+| **[ʃ]** | S | **Voiceless palato-alv sibilant**: audible frication; little or no formant; intensity may be high   | ![](Sample_sounds/Voiceless_palato-alveolar_sibilant.ogg)                           |
+| **[ʒ]** | Z | **Voiced palato-alv sibilant**: audible frication; voice bar; little or no formant; intensity may be high   | ![](Sample_sounds/Voiced_palato-alveolar_sibilant.ogg)                           |
+| **0**| 0 | **Deletion**: Vowel-to-vowel transition; near-zero duration                     | ---                                                    |
 
 ## Annotation tiers
 
