@@ -17,7 +17,7 @@ body {
 ```
 
 
-## Different realizations of /ʎ/
+## Examples of different realizations of /ʎ/
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
