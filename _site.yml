@@ -8,4 +8,6 @@ navbar:
       href: annotation.html
     - text: "Examples"
       href: examples.html
+    - text: "Assignment"
+      href: assignment.html
 output_dir: "docs"

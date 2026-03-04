@@ -1,0 +1,40 @@
+---
+title: "RAP-Assignment"
+output: 
+  html_document:
+    theme: flatly
+    css: style.css
+    toc: no
+    toc_float:
+      collapsed: true
+---
+
+```{css, echo=FALSE}
+/* Change the font size for the main body text to 18px */
+body {
+  font-size: 18px;
+}
+```
+
+## Word list
+
+The word list is found [here](word_list.pdf)
+
+## Audio files
+
+The audio files are found [here](https://drive.google.com/drive/folders/1D3FT-wK3GacMkS-SvxGkY4gNAIKQLfqB?usp=sharing)
+
+## Notes
+
+For any problematic annotations (and there will be lots), please make note of them [here](https://docs.google.com/spreadsheets/d/1UDGFy_slWE48qj7vZULn-1sxYWaYLkaNjXN9IKBsyRU/edit?usp=sharing)
+
+## Assignments
+
+| 	|  	|
+|---	|---	|
+|**Annotator**|**Files**|
+| KC 	| RM3, RM4, RM8 	|
+| SJ 	| RM9, RM10, RM11 	|
+| SS 	| RM12, RM13, RM14 	|
+| SP 	| RM15, RM16, RM17 	|
+| TE  | RH2, RH4, RH8     |
