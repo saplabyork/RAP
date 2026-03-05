@@ -73,7 +73,7 @@ Please watch this [video](https://drive.google.com/file/d/1b1GHqO5kMTPRY_4AXtn89
 
 "Mujerona" with clear glide (see F2 positive slope)
 
-![](sounds/RH1 muierona.mp3)
+![](sounds/mujerona_glide.wav)
 
 ![](images/RH1_mujerona_glide.png)\
 
